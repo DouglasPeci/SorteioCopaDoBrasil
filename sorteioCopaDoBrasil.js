@@ -1,4 +1,4 @@
-const times = ["São Paulo", "Corinthians", "Santos", "Palmeiras", "Flamengo", "Botafogo", "Bahia", "Sport"];
+const times = ["São Paulo", "Corinthians", "Santos", "Palmeiras", "Flamengo", "Botafogo", "Bahia", "Sport", "Internacional", "Grêmio", "Fortaleza", "Fluminense", "Cruzeiro", "Atlético MG", "Athletico Paranaense", "América MG"];
 
 console.log("Sorteio das oitavas de final da Copa do Brasil:");
 
